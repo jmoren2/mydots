@@ -1,4 +1,5 @@
 set number
+set numberwidth=2
 syntax on
 set background=dark
 set re=0
